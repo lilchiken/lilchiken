@@ -5,11 +5,9 @@
 
 ### :man_technologist: About me:
 
-A Back-end Developer who likes participate in unusual projects. Looking for a dream job. Everyday learns something new. Most often in IT. Can reads technical english and say some words. :)
-Supporter the Zen of Python.
-Currently reading "The Art of Computer Programming" © D. Knuth
+A Back-end Developer who likes participate in unusual projects. Looking for a dream job. Everyday learns something new. Most often in IT. Can reads technical english and say some words. :)  Supporter the Zen of Python.  Currently reading "The Art of Computer Programming" © D. Knuth
 
-- :mailbox: How connect with me: [![Telegram Badge](https://img.shields.io/badge/-spbdqs-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/spbdqs) [![Gmail Badge](https://img.shields.io/badge/-YandexMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andryuhin2@yandex.ru)
+# How connect with me: [![Telegram Badge](https://img.shields.io/badge/-spbdqs-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/spbdqs) [![Gmail Badge](https://img.shields.io/badge/-YandexMail-red?style=flat&logo=Gmail&logoColor=white)](mailto:andryuhin2@yandex.ru)
 
 ---
 
