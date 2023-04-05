@@ -35,10 +35,5 @@ Currently reading "The Art of Computer Programming" © D. Knuth
 
 ### ⚙️ GitHub stats:
 
-<table>
-  <tr>
-    <td>
-      <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lilchiken&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-  </tr>
-</table>
+<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=lilchiken&theme=dark&background=000000" alt="webDev's Github stats" />
+
