@@ -5,7 +5,7 @@
 
 ### :man_technologist: About me:
 
-A Back-end Developer who likes participate in unusual projects. Looking for a dream job. Everyday learns something new. Most often in IT. Can reads technical english and say some words. :)  
+A Back-end Developer who likes participate in unusual projects. Everyday learns something new. Most often in IT. Can reads technical english and say some words. :)  
 Supporter the Zen of Python.  
 Currently reading "The Art of Computer Programming" © D. Knuth
 
